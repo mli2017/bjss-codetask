@@ -5,7 +5,8 @@ This code task is implemented in Java 8
 The source code locates at https://github.com/mli2017/bjss-codetask
 
 ## Configuration
-`src/main/resources`
+In `src/main/resources` folder
+
 `prices.tsv` Product prices can be added/deleted/updated in this file
 `offers.tsv` Offers definition can be added/deleted/updated in this file
 
